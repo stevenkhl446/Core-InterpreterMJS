@@ -1,6 +1,8 @@
 
 # Interpreter for a Simple Language
 
+NOTE: change files to .mjs extension for ESmodule.
+
 This project is an interpreter for a simple programming language, built using JavaScript. It includes the following components:
 
 - **Tokenizer:** Converts the input source code into tokens.
